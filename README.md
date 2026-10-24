@@ -104,7 +104,7 @@ python weather_analysis.py
 **Shejal Dhakate**
 
 - GitHub: [shejal24-rgb](https://github.com/shejal24-rgb)
-- LinkedIn: [Shejal Dhakate](https://linkedin.com/in/shejaldhakate)
+- LinkedIn:https://linkedin.com/in/shejal-dhakate
 
 ---
 
